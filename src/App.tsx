@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>ReactJS Apps</h1>
-      <Button></Button>
+      <Button>Ed</Button>
     </div>
   );
 }
