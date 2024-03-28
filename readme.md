@@ -66,8 +66,8 @@ Now it needs to be initialized
 pnpm exec husky init
 ```
 
-Also, every project needs a static checker as known as linter
+Also, every project needs a static checker as known as linter. We will install:
 
 ```
-
+pnpm add -D eslint
 ```
