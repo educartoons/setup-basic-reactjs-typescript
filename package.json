@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "format": "prettier \"src/**/*.{js,jsx,ts,tsx}\" --write",
-    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --max-warnings 0",
+    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet --max-warnings 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
