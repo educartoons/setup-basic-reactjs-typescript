@@ -62,7 +62,12 @@ pnpm add -D husky
 
 Now it needs to be initialized
 
-
 ```
 pnpm exec husky init
+```
+
+Also, every project needs a static checker as known as linter
+
+```
+
 ```
